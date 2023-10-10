@@ -1,0 +1,34 @@
+.Navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    background-color: #0F0F0F;
+    font-size: 2rem;
+    font-family: 'Young Serif', serif;
+}
+
+.Navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2rem 1.5rem;
+    text-decoration: none;
+    color: #008170;
+  }
+
+  .Navbar a {
+    display: block;
+    padding: 2rem;
+  }
+
+  .Navbar .active {
+    background-color: #008170;
+    color: white;
+  }
+
+  .Navbar .contact {
+    margin-left: auto;
+    padding-right: 1.75rem;
+  }
