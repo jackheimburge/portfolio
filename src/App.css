@@ -4,4 +4,12 @@
     height: 100vmin;
     margin: 0;
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Welcome h1 {
+    margin-top: -40vmin;
+    font-size: 7rem;
 }
