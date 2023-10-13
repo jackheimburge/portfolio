@@ -4,8 +4,8 @@ import './Contact.css';
 export default function Contact() {
 
     return(
-    <Element name="contact" className="element">
-        <div className="Contact">CONTACT</div>
+    <Element name="contact" className="Contact element">
+        <header>CONTACT</header>
     </Element>
     );
 }

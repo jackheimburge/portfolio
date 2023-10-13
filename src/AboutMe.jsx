@@ -4,8 +4,7 @@ import { Link, Element, Events, animateScroll as scroll, scrollSpy, scroller } f
 
 export default function AboutMe() {
     return(
-        <Element name="aboutMe" className="element">
-            <div className="AboutMe">
+        <Element name="aboutMe" className="AboutMe element">
                 <header>
                     <h2>A LITTLE ABOUT ME</h2>
                 </header>
@@ -15,7 +14,6 @@ export default function AboutMe() {
                 <div className="skills">
                     my skills
                 </div>
-            </div>
         </Element>
     );
 }

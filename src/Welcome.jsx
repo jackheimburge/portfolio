@@ -3,10 +3,8 @@ import './Welcome.css'
 export default function Welcome() {
     
     return(
-        <Element name="welcome" className="element">
-            <div className="Welcome">
+        <Element name="welcome" className="Welcome element ">
                 <h1>Hello, <br />I'm Jack Heimburge.</h1>
-            </div>
         </Element>
     );
 }
