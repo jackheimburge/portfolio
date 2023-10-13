@@ -27,5 +27,10 @@
 
   .Navbar .contact {
     margin-left: auto;
-    padding-right: 1.75rem;
+  }
+
+  .Navbar .nav-link a:hover {
+    color: white;
+    background-color: #008170;
+    cursor: grab;
   }
