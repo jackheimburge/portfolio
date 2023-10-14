@@ -4,7 +4,7 @@ export default function Welcome() {
 
     return (
         <Element id="welcome" className="Welcome element ">
-            <h1>Hello, <br />I'm <span>Jack.</span></h1>
+            <h1 className='text-md'>Hello, <br />I'm <span>Jack.</span></h1>
         </Element>
     );
 }

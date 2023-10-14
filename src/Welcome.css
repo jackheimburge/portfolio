@@ -10,8 +10,25 @@
 }
 
 .Welcome h1 {
-    margin-top: -40vmin;
-    font-size: 8rem;
+    margin-top: -50vmin;
+    font-size: 4.5rem;
     color: rgba(0, 129, 112, 0.95);
 }
 
+@media (min-width: 768px) {
+    .Welcome h1 {
+        font-size: 5rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .Welcome h1 {
+        font-size: 6.5rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .Welcome h1 {
+        font-size: 8rem;
+    }
+}
