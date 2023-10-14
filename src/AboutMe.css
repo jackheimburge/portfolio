@@ -1,18 +1,21 @@
 .AboutMe {
-    height: 100vmin;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    flex-direction: column;
-
+    height: 100vh;
     text-align: center;
     color: #232D3F;
-    background-color:#F1EFEF;
+    background-color: #F1EFEF;
 }
 
 .AboutMe header {
     text-decoration: underline;
-    text-underline-offset: 0.3rem;   
+    text-underline-offset: 0.3rem;
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+}
+
+header h2 {
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 0.5rem;
 }
 
 .AboutMe .tech-icon {
@@ -23,4 +26,6 @@
     line-height: 3.5rem;
     text-align: left;
     font-size: 1.3rem;
+    margin: 0 5rem;
+    font-style: italic;
 }

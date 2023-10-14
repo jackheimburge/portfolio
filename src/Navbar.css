@@ -5,8 +5,7 @@
   background-color: #0F0F0F;
   font-size: 1.55rem;
   position: sticky;
-  top: 0;
-  height: 5rem;
+  height: 6.3rem;
 }
 
 .nav-item a {
@@ -28,7 +27,7 @@
   color: white;
   background-color: #008170;
   cursor: grab;
-  height: 5.7rem;
+  height: 6.35rem;
 }
 
 .navbar-toggler {
@@ -40,6 +39,8 @@
   padding: 0;
 }
 
-navbar.navbar-expand-lg {
-  height: 200px;
+.navbar-collapse {
+  background-color: black;
+  background-color: #0F0F0F;
+  padding: 0;
 }

@@ -12,16 +12,16 @@ export default function Navbar() {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <a href="#welcome" smooth={true} duration={700} offset={0} spy={true}>HOME</a>
+                            <a href="#welcome" >HOME</a>
                         </li>
                         <li className="nav-item">
-                            <a href="#aboutMe" smooth={true} duration={700} offset={0} spy={true}>ABOUT ME</a>
+                            <a href="#aboutMe">ABOUT ME</a>
                         </li>
                         <li className="nav-item">
-                            <a href="#projects" smooth={true} duration={700} offset={0} spy={true}>PROJECTS</a>
+                            <a href="#projects">PROJECTS</a>
                         </li>
                         <li className="nav-item contact">
-                            <a href="#contact" smooth={true} duration={700} offset={0} spy={true}>CONTACT</a>
+                            <a href="#contact">CONTACT</a>
                         </li>
                     </ul>
                 </div>
