@@ -3,12 +3,30 @@ import { Link } from 'react-scroll';
 
 
 export default function Navbar() {
-    return(
-    <ul className='Navbar'>
-        <li className='nav-link'><Link to="welcome" smooth={true} duration={700} offset={-100} spy={true}>HOME</Link></li>
-        <li className='nav-link'><Link to="aboutMe" smooth={true} duration={700} offset={-100} spy={true}>ABOUT ME</Link></li>
-        <li className='nav-link'><Link to="projects" smooth={true} duration={700} offset={-100} spy={true}>PROJECTS</Link></li>
-        <li className='contact nav-link'><Link to="contact" smooth={true} duration={700} offset={-100} spy={true}>CONTACT</Link></li>
-    </ul>
+    return (
+        <nav className="navbar sticky-top navbar-expand-lg ">
+            <div className="container-fluid Navbar">
+                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span className="navbar-toggler-icon"></span>
+                </button>
+                <div className="collapse navbar-collapse" id="navbarNav">
+                    <ul className="navbar-nav">
+                        <li className="nav-item">
+                            <a href="#welcome" smooth={true} duration={700} offset={0} spy={true}>HOME</a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="#aboutMe" smooth={true} duration={700} offset={0} spy={true}>ABOUT ME</a>
+                        </li>
+                        <li className="nav-item">
+                            <a href="#projects" smooth={true} duration={700} offset={0} spy={true}>PROJECTS</a>
+                        </li>
+                        <li className="nav-item contact">
+                            <a href="#contact" smooth={true} duration={700} offset={0} spy={true}>CONTACT</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
     );
 }

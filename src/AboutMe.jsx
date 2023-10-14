@@ -3,8 +3,8 @@ import { Link, Element, Events, animateScroll as scroll, scrollSpy, scroller } f
 
 
 export default function AboutMe() {
-    return(
-        <Element name="aboutMe" className="AboutMe element">
+    return (
+        <Element id="aboutMe" className="AboutMe element">
             <div className="row">
                 <header>
                     <h2>ABOUT ME</h2>
@@ -13,13 +13,13 @@ export default function AboutMe() {
             <div className="row">
                 <div className="col-lg-6">
                     <div className="statement">
-                    <p>Hi, I'm Jack Heimburge, a detail-oriented and passionate Software Engineer with a keen eye for 
-                        creating user-friendly applications that tackle real-world problems.
-                        I bring a unique blend of creativity and dedication to every project.
-                    </p>
-                    <p>With a deep-seated commitment to turning ideas into reality, I'm excited to continue
-                        my journey in the world of software engineering, making a positive impact one line of code at a time.
-                    </p>
+                        <p>Hi, I'm Jack Heimburge, a detail-oriented and passionate Software Engineer with a keen eye for
+                            creating user-friendly applications that tackle real-world problems.
+                            I bring a unique blend of creativity and dedication to every project.
+                        </p>
+                        <p>With a deep-seated commitment to turning ideas into reality, I'm excited to continue
+                            my journey in the world of software engineering, making a positive impact one line of code at a time.
+                        </p>
                     </div>
                 </div>
                 <div className="col-lg-6">

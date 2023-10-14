@@ -1,35 +1,45 @@
 .Navbar {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    background-color: #0F0F0F;
-    font-size: 1.55rem;
-    position: sticky;
-    top: 0;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  background-color: #0F0F0F;
+  font-size: 1.55rem;
+  position: sticky;
+  top: 0;
+  height: 5rem;
 }
 
-.Navbar li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 2rem 1.5rem;
-    text-decoration: none;
-    color: #008170;
-  }
-  
-  .Navbar .active {
-    background-color: #008170;
-    color: white;
-  }
+.nav-item a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2rem 1.5rem;
+  text-decoration: none;
+  color: #008170;
+}
 
-  .Navbar .contact {
-    margin-left: auto;
-  }
+.active {
+  background-color: #008170;
+  color: white;
+  text-decoration: none;
+}
 
-  .Navbar .nav-link a:hover {
-    color: white;
-    background-color: #008170;
-    cursor: grab;
-  }
+.nav-item a:hover {
+  color: white;
+  background-color: #008170;
+  cursor: grab;
+  height: 5.7rem;
+}
+
+.navbar-toggler {
+  background-color: #008170;
+  margin-left: 0;
+}
+
+.navbar {
+  padding: 0;
+}
+
+navbar.navbar-expand-lg {
+  height: 200px;
+}
