@@ -4,7 +4,7 @@ export default function Welcome() {
     
     return(
         <Element name="welcome" className="Welcome element ">
-                <h1>Hello, <br />I'm <span>Jack Heimburge.</span></h1>
+                <h1>Hello, <br />I'm <span>Jack.</span></h1>
         </Element>
     );
 }

@@ -1,12 +1,26 @@
 .AboutMe {
     height: 100vmin;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+
     text-align: center;
+    color: #232D3F;
+    background-color:#F1EFEF;
 }
 
 .AboutMe header {
-    grid-column: span 2;
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;   
 }
 
+.AboutMe .tech-icon {
+    height: 8rem;
+}
+
+.AboutMe .statement {
+    line-height: 3.5rem;
+    text-align: left;
+    font-size: 1.3rem;
+}

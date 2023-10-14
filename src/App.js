@@ -9,12 +9,14 @@ import Footer from './Footer';
 function App() {
   return (
     <div className="App">
+      <div className="container">
       <Navbar />
       <Welcome />
       <AboutMe />
       <Projects />
       <Contact />
       <Footer />
+      </div>
     </div>
   );
 }

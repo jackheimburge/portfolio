@@ -10,13 +10,8 @@
 }
 
 .Welcome h1 {
-    margin-top: -33vmin;
-    font-size: 7.5rem;
-    font-family: 'Pacifico', cursive;
+    margin-top: -40vmin;
+    font-size: 8rem;
     color: rgba(0, 129, 112, 0.95);
 }
 
-.Welcome span {
-    text-decoration: rgb(70, 95, 115) underline;
-    text-underline-offset: 0.2em;
-}
