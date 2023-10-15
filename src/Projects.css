@@ -1,15 +1,19 @@
 .Projects {
-    height: 100vh;
+    height: 250vh;
     text-align: center;
     color: #0F0F0F;
     background-color: rgba(0, 129, 112, 0.95);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .Projects header {
     text-decoration: underline;
     text-underline-offset: 0.3rem;
     margin-top: 15vh;
-    margin-bottom: 10vh;
+    margin-bottom: 15vh;
 }
 
 .Projects .skills-row {
@@ -17,23 +21,72 @@
 }
 
 .Projects .card {
-    height: 30vh;
-
+    height: 75vh;
+    margin: 1rem;
 }
 
 .Projects .projects-btn {
-    margin: 1rem;
-    width: 15vmin;
+    margin: 0.5rem;
+    width: 20rem;
     background-color: #0F0F0F;
     color: rgba(0, 129, 112, 0.95);
     font-size: 1.5rem;
     transition: 0.5s;
+    border: none;
 }
 
 .Projects .projects-btn:hover {
-    margin: 1rem;
-    width: 15vmin;
     background-color: rgba(0, 129, 112, 0.95);
     color: #0F0F0F;
     font-size: 1.5rem;
+}
+
+@media(max-width: 768px) {
+    .Projects {
+        height: 350vh;
+    }
+
+    .Projects header {
+        text-decoration: underline;
+        text-underline-offset: 0.3rem;
+        margin-top: 15vh;
+    }
+
+    .col-lg-6 {
+        margin-bottom: 5rem;
+    }
+
+    .Projects .card {
+        height: 65vh;
+        margin: 1rem;
+    }
+}
+
+
+@media(max-width: 390px) {
+    .Projects {
+        height: 350vh;
+    }
+
+    .col-lg-6 {
+        margin-bottom: 5rem;
+    }
+
+    .Projects h2 {
+        font-size: 3rem;
+    }
+
+    .Projects .card {
+        height: 66vh;
+        width: 80vw;
+    }
+
+    .Projects .projects-btn {
+        width: 12rem;
+        font-size: 1.4rem;
+    }
+
+    .Projects .card-text {
+        font-size: 0.8rem;
+    }
 }
