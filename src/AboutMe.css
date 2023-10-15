@@ -1,5 +1,5 @@
 .AboutMe {
-    height: 100vh;
+    height: 120vh;
     text-align: center;
     color: #232D3F;
     background-color: #F1EFEF;
@@ -19,42 +19,53 @@ header h2 {
 }
 
 .AboutMe .tech-icon {
-    height: 8rem;
+    height: 6rem;
 }
 
 .AboutMe .statement {
-    line-height: 3.5rem;
+    line-height: 3rem;
     text-align: left;
     font-size: 1.3rem;
-    margin: 0 5rem;
+    margin-left: 3rem;
     font-style: italic;
 }
 
-@media(max-width: 1200px) {
+@media(max-width: 768px) {
     .AboutMe .tech-icon {
-        height: 6rem;
+        height: 5rem;
     }
 }
 
-@media(max-width: 1200px) {
+@media(max-width: 768px) {
     .AboutMe .statement {
         line-height: 2.5rem;
         text-align: left;
         font-size: 1.3rem;
         margin: 0 2rem;
-        margin-bottom: 6rem;
+        margin-bottom: 4rem;
         font-style: italic;
     }
 }
 
-@media(max-width: 690px) {
+@media(max-width: 390px) {
     .AboutMe .statement {
         line-height: 2.5rem;
         text-align: left;
         font-size: 1rem;
-        margin: 0 2rem;
         margin-bottom: 4rem;
         font-style: italic;
+    }
+}
+
+@media(max-width: 390px) {
+    .AboutMe {
+        height: 150vh;
+    }
+}
+
+@media(max-width: 390px) {
+    .AboutMe .skills {
+        margin: 0 2rem;
     }
 }
 

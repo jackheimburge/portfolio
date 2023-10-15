@@ -17,7 +17,6 @@ export default function AboutMe() {
                             creating user-friendly applications that tackle real-world problems.
                             I bring a unique blend of creativity and dedication to every project.
                         </p>
-                        <br />
                         <p>With a deep-seated commitment to turning ideas into reality, I'm excited to continue
                             my journey in the world of software engineering, making a positive impact one line of code at a time.
                         </p>
