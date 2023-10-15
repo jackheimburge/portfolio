@@ -29,3 +29,29 @@ header h2 {
     margin: 0 5rem;
     font-style: italic;
 }
+
+@media(max-width: 1160px) {
+    .AboutMe .tech-icon {
+        height: 3rem;
+    }
+}
+
+@media(max-width: 1160px) {
+    .AboutMe .statement {
+        line-height: 2.5rem;
+        text-align: left;
+        font-size: 1rem;
+        margin: 0 2rem;
+        margin-bottom: 3rem;
+        font-style: italic;
+    }
+}
+
+@media(max-width: 1160px) {
+    .AboutMe header {
+        text-decoration: underline;
+        text-underline-offset: 0.3rem;
+        margin-top: 8vh;
+        margin-bottom: 5vh;
+    }
+}
