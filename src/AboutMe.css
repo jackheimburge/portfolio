@@ -30,24 +30,35 @@ header h2 {
     font-style: italic;
 }
 
-@media(max-width: 1160px) {
+@media(max-width: 1200px) {
     .AboutMe .tech-icon {
-        height: 3rem;
+        height: 6rem;
     }
 }
 
-@media(max-width: 1160px) {
+@media(max-width: 1200px) {
+    .AboutMe .statement {
+        line-height: 2.5rem;
+        text-align: left;
+        font-size: 1.3rem;
+        margin: 0 2rem;
+        margin-bottom: 6rem;
+        font-style: italic;
+    }
+}
+
+@media(max-width: 690px) {
     .AboutMe .statement {
         line-height: 2.5rem;
         text-align: left;
         font-size: 1rem;
         margin: 0 2rem;
-        margin-bottom: 3rem;
+        margin-bottom: 4rem;
         font-style: italic;
     }
 }
 
-@media(max-width: 1160px) {
+@media(max-width: 1200px) {
     .AboutMe header {
         text-decoration: underline;
         text-underline-offset: 0.3rem;
