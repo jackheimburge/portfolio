@@ -19,7 +19,7 @@ header h2 {
 }
 
 .AboutMe .tech-icon {
-    height: 6rem;
+    height: 7rem;
 }
 
 .AboutMe .statement {
@@ -64,7 +64,7 @@ header h2 {
     }
 
     .AboutMe {
-        height: 150vh;
+        height: 175vh;
     }
 
     .AboutMe .skills {

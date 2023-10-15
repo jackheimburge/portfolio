@@ -1,7 +1,7 @@
 .Welcome {
     background-image: url('https://i.imgur.com/pXtEj77.jpg');
     background-size: cover;
-    height: 100vh;
+    height: 120vh;
     margin: 0;
     overflow: hidden;
     display: flex;
@@ -10,7 +10,7 @@
 }
 
 .Welcome h1 {
-    margin-top: -50vmin;
+    margin-top: -60vmin;
     font-size: 7rem;
     color: rgba(0, 129, 112, 0.95);
 }
