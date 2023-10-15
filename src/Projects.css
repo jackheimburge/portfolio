@@ -1,8 +1,8 @@
 .Projects {
     height: 100vh;
     text-align: center;
-    color: #232D3F;
-    background-color: red;
+    color: #0F0F0F;
+    background-color: rgba(0, 129, 112, 0.95);
 }
 
 .Projects header {
@@ -19,4 +19,21 @@
 .Projects .card {
     height: 30vh;
 
+}
+
+.Projects .projects-btn {
+    margin: 1rem;
+    width: 15vmin;
+    background-color: #0F0F0F;
+    color: rgba(0, 129, 112, 0.95);
+    font-size: 1.5rem;
+    transition: 0.5s;
+}
+
+.Projects .projects-btn:hover {
+    margin: 1rem;
+    width: 15vmin;
+    background-color: rgba(0, 129, 112, 0.95);
+    color: #0F0F0F;
+    font-size: 1.5rem;
 }
