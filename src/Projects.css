@@ -62,7 +62,7 @@
 }
 
 
-@media(max-width: 390px) {
+@media(max-width: 420px) {
     .Projects {
         height: 350vh;
     }
