@@ -14,3 +14,32 @@
 .Footer span {
     font-size: 2.2rem;
 }
+
+@media(max-width: 768px) {
+    .Footer .nav-icon {
+        height: 4rem;
+    }
+
+    .Footer h2 {
+        font-size: 1rem;
+    }
+
+    .Footer span {
+        font-size: 1.2rem;
+    }
+}
+
+
+@media(max-width: 420px) {
+    .Footer .nav-icon {
+        height: 1.5rem;
+    }
+
+    .Footer h2 {
+        font-size: 0.8rem;
+    }
+
+    .Footer span {
+        font-size: 1.2rem;
+    }
+}
