@@ -1,7 +1,0 @@
-.Contact {
-    height: 90vh;
-    color: #232D3F;
-    background-color: #F1EFEF;
-    display: grid;
-    grid-template-rows: 1fr 3fr;
-}

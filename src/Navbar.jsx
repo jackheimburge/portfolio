@@ -18,9 +18,6 @@ export default function Navbar() {
                         <li className="nav-item">
                             <a href="#projects">PROJECTS</a>
                         </li>
-                        <li className="nav-item contact">
-                            <a href="#contact">CONTACT</a>
-                        </li>
                     </ul>
                     <div className="ml-auto"> {/* Create a div for the right-aligned links */}
                         <a href="https://www.linkedin.com/in/jackheimburge/" target="_blank" className="nav-item nav-end"><img className="nav-icon" src="https://i.imgur.com/Pz2yEkx.png" alt="" /></a>

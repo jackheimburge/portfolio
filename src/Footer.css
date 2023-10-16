@@ -1,4 +1,16 @@
 .Footer {
-    height: 5vmin;
+    height: 15vmin;
     background-color: black;
+    color: rgba(0, 129, 112, 0.95);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Footer .nav-icon {
+    height: 5rem;
+}
+
+.Footer span {
+    font-size: 2.2rem;
 }
