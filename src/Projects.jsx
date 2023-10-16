@@ -38,7 +38,7 @@ export default function Projects() {
                             <p className="card-text mt-4">- Seemlisly view your favorite surf spots and locations.</p>
                             <p className="card-text mt-4">- Track your surf sessions, including photo upload and conditions.</p>
                             <p className="card-text mt-4">- Built using Node.js and Express.js</p>
-                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">Live</a>
+                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
                             <a href="https://github.com/jackheimburge/tide-seeker" target="_blank" className="btn btn-primary projects-btn">Github</a>
                         </div>
                     </div>
@@ -71,7 +71,7 @@ export default function Projects() {
                             <p className="card-text mt-4">- Dealership solution to help track sales and inventory</p>
                             <p className="card-text mt-4">- Uses chart insights to visualize sales data.  </p>
                             <p className="card-text mt-4">- Built using Python, Django and Chart.js</p>
-                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">Live</a>
+                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
                             <a href="https://github.com/jackheimburge/tide-seeker" target="_blank" className="btn btn-primary projects-btn">Github</a>
                         </div>
                     </div>
@@ -103,7 +103,7 @@ export default function Projects() {
                             <p className="card-text mt-4">- Seemlisly view your favorite surf spots and locations.</p>
                             <p className="card-text mt-4">- Track your surf sessions, including photo upload and conditions.</p>
                             <p className="card-text mt-4">- Built using Node.js and Express.js</p>
-                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">Live</a>
+                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
                             <a href="https://github.com/jackheimburge/tide-seeker" target="_blank" className="btn btn-primary projects-btn">Github</a>
                         </div>
                     </div>
@@ -136,7 +136,7 @@ export default function Projects() {
                             <p className="card-text mt-4">- Seemlisly view your favorite surf spots and locations.</p>
                             <p className="card-text mt-4">- Track your surf sessions, including photo upload and conditions.</p>
                             <p className="card-text mt-4">- Built using Node.js and Express.js</p>
-                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">Live</a>
+                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
                             <a href="https://github.com/jackheimburge/tide-seeker" target="_blank" className="btn btn-primary projects-btn">Github</a>
                         </div>
                     </div>

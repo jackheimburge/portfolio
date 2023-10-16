@@ -22,6 +22,15 @@
   text-decoration: none;
 }
 
+.nav-icon {
+  height: 50px;
+  margin-right: 1.5rem;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
 .nav-item a:hover {
   color: white;
   background-color: #008170;
@@ -42,8 +51,6 @@
   background-color: #0F0F0F;
   padding: 0;
 }
-
-
 
 
 @media(max-width: 768px) {
