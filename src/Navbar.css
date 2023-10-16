@@ -34,7 +34,6 @@
 }
 
 .navbar {
-  padding: 0;
   height: 4rem;
 }
 
@@ -42,4 +41,14 @@
   background-color: black;
   background-color: #0F0F0F;
   padding: 0;
+}
+
+
+
+
+@media(max-width: 768px) {
+  .Navbar {
+    padding: 0.8rem;
+    margin-top: -.5rem;
+  }
 }
