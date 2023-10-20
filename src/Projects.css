@@ -125,4 +125,8 @@
         width: 25rem;
         font-size: 2rem;
     }
+
+    .Projects .card {
+        height: 95vh;
+    }
 }
