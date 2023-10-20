@@ -61,6 +61,34 @@
     }
 }
 
+@media(max-width: 600px) {
+    .Projects {
+        height: 350vh;
+    }
+
+    .col-lg-6 {
+        margin-bottom: 5rem;
+    }
+
+    .Projects h2 {
+        font-size: 3rem;
+    }
+
+    .Projects .card {
+        height: 58vh;
+        width: 80vw;
+    }
+
+    .Projects .projects-btn {
+        width: 12rem;
+        font-size: 1.4rem;
+    }
+
+    .Projects .card-text {
+        font-size: 0.8rem;
+    }
+}
+
 
 @media(max-width: 420px) {
     .Projects {
@@ -76,7 +104,7 @@
     }
 
     .Projects .card {
-        height: 66vh;
+        height: 62vh;
         width: 80vw;
     }
 
@@ -87,5 +115,14 @@
 
     .Projects .card-text {
         font-size: 0.8rem;
+    }
+}
+
+
+@media(min-width: 1440px) {
+    .Projects .projects-btn {
+        margin-top: 2.2rem;
+        width: 25rem;
+        font-size: 2rem;
     }
 }

@@ -5,6 +5,10 @@
     background-color: #F1EFEF;
 }
 
+.AboutMe .skills {
+    margin-right: 1rem;
+}
+
 .AboutMe header {
     text-decoration: underline;
     text-underline-offset: 0.3rem;
@@ -31,7 +35,7 @@ header h2 {
 }
 
 
-@media(max-width: 768px) {
+@media(max-width: 780px) {
     .AboutMe .statement {
         line-height: 2.5rem;
         text-align: left;
@@ -42,7 +46,7 @@ header h2 {
     }
 
     .AboutMe .tech-icon {
-        height: 5rem;
+        height: 6rem;
     }
 
     .AboutMe header {
@@ -50,6 +54,21 @@ header h2 {
         text-underline-offset: 0.3rem;
         margin-top: 15vh;
         margin-bottom: 5vh;
+    }
+}
+
+@media(max-width: 600px) {
+
+    .AboutMe {
+        height: 150vh;
+    }
+
+    .AboutMe .tech-icon {
+        height: 5rem;
+    }
+
+    .AboutMe .skills {
+        margin: 0 2rem;
     }
 }
 
@@ -64,7 +83,7 @@ header h2 {
     }
 
     .AboutMe {
-        height: 175vh;
+        height: 150vh;
     }
 
     .AboutMe .skills {

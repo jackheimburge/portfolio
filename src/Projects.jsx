@@ -71,8 +71,8 @@ export default function Projects() {
                             <p className="card-text mt-4">- Dealership solution to help track sales and inventory</p>
                             <p className="card-text mt-4">- Uses chart insights to visualize sales data.  </p>
                             <p className="card-text mt-4">- Built using Python, Django and Chart.js</p>
-                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
-                            <a href="https://github.com/jackheimburge/tide-seeker" target="_blank" className="btn btn-primary projects-btn">Github</a>
+                            <a href="https://dm-solutions-6a34df6ef1ad.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://github.com/jackheimburge/dm-solutions" target="_blank" className="btn btn-primary projects-btn">Github</a>
                         </div>
                     </div>
                 </div>
@@ -100,11 +100,11 @@ export default function Projects() {
                                     <span class="visually-hidden">Next</span>
                                 </button>
                             </div>
-                            <p className="card-text mt-4">- Seemlisly view your favorite surf spots and locations.</p>
-                            <p className="card-text mt-4">- Track your surf sessions, including photo upload and conditions.</p>
-                            <p className="card-text mt-4">- Built using Node.js and Express.js</p>
-                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
-                            <a href="https://github.com/jackheimburge/tide-seeker" target="_blank" className="btn btn-primary projects-btn">Github</a>
+                            <p className="card-text mt-4">- A user vs. computer web browser Blackjack game! </p>
+                            <p className="card-text mt-4">- User has a wallet with $200. How much can you win?</p>
+                            <p className="card-text mt-4">- Built using JavaScript and the Client-Side MVC Architectural Approach.</p>
+                            <a href="https://jackheimburge.github.io/blackjack/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://github.com/jackheimburge/blackjack" target="_blank" className="btn btn-primary projects-btn">Github</a>
                         </div>
                     </div>
                 </div>
