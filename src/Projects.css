@@ -37,7 +37,6 @@
 .Projects .projects-btn:hover {
     background-color: rgba(0, 129, 112, 0.95);
     color: #0F0F0F;
-    font-size: 1.5rem;
 }
 
 @media(max-width: 768px) {
