@@ -106,9 +106,9 @@ export default function Projects() {
                                     <span class="visually-hidden">Next</span>
                                 </button>
                             </div>
-                            <p className="card-text mt-4">- Leveraged the power of the MERN (MongoDB, Express, React, Node.js) stack to create a dynamic marketplace. </p>
-                            <p className="card-text mt-4">- Empowered users to effortlessly manage listings by offering features for creating, updating and removing items.</p>
+                            <p className="card-text mt-4">- Dynamic marketplace for buying and selling trading cards.</p>
                             <p className="card-text mt-4">- Crafted an engaging shopping experience with a modern user interface layout.</p>
+                            <p className="card-text mt-4">- Leveraged the power of the MERN stack. </p>
                             <a href="https://card-hub-fc0733ce387e.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
                             <a href="https://jackheimburge.github.io/card-hub/" target="_blank" className="btn btn-primary projects-btn">Git Hub</a>
                         </div>
@@ -121,13 +121,13 @@ export default function Projects() {
                             <div id="card-hub-carousel" class="carousel slide">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <img src="https://i.imgur.com/8Uetvp9.png" class="d-block w-100" alt="..." />
+                                        <img src="https://i.imgur.com/qqhylkc.png" class="d-block w-100" alt="..." />
                                     </div>
                                     <div class="carousel-item">
-                                        <img src="https://i.imgur.com/Wi4hXau.png" class="d-block w-100" alt="..." />
+                                        <img src="https://i.imgur.com/XP10G6J.png" class="d-block w-100" alt="..." />
                                     </div>
                                     <div class="carousel-item">
-                                        <img src="https://i.imgur.com/Ui9357b.png" class="d-block w-100" alt="..." />
+                                        <img src="https://i.imgur.com/ykh2LhN.png" class="d-block w-100" alt="..." />
                                     </div>
                                 </div>
                                 <button class="carousel-control-prev" type="button" data-bs-target="#card-hub-carousel" data-bs-slide="prev">
@@ -140,8 +140,8 @@ export default function Projects() {
                                 </button>
                             </div>
                             <p className="card-text mt-4">- Web browser Blackjack game built using Javascript, CSS, HTML and DOM manipulation.</p>
-                            <p className="card-text mt-4">- A fun user vs computer game with all the winning logic as the casino!</p>
-                            <p className="card-text mt-4">- Modern and sleak user interface!</p>
+                            <p className="card-text mt-4">- A fun user vs computer game played just like at the casino!</p>
+                            <p className="card-text mt-4">- Features a modern and sleak user interface!</p>
                             <a href="https://jackheimburge.github.io/blackjack/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
                             <a href="https://github.com/jackheimburge/blackjack" target="_blank" className="btn btn-primary projects-btn">Github</a>
                         </div>
