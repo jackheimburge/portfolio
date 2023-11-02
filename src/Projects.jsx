@@ -81,14 +81,20 @@ export default function Projects() {
                 <div className="col-lg-6">
                     <div className="card">
                         <div className="card-body">
-                            <h5 className="card-title ">Blackjack</h5>
+                            <h5 className="card-title ">The Card Hub</h5>
                             <div id="blackjack-carousel" class="carousel slide">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <img src="https://i.imgur.com/XjfWYSu.png" class="d-block w-100" alt="..." />
+                                        <img src="https://i.imgur.com/4lYbtap.png" class="d-block w-100" alt="..." />
                                     </div>
                                     <div class="carousel-item">
-                                        <img src="https://i.imgur.com/XjfWYSu.png" class="d-block w-100" alt="..." />
+                                        <img src="https://i.imgur.com/WI8O9IS.png" class="d-block w-100" alt="..." />
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="https://i.imgur.com/0p0mCqx.png" class="d-block w-100" alt="..." />
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="https://i.imgur.com/RT98q1g.png" class="d-block w-100" alt="..." />
                                     </div>
                                 </div>
                                 <button class="carousel-control-prev" type="button" data-bs-target="#blackjack-carousel" data-bs-slide="prev">
@@ -100,18 +106,18 @@ export default function Projects() {
                                     <span class="visually-hidden">Next</span>
                                 </button>
                             </div>
-                            <p className="card-text mt-4">- A user vs. computer web browser Blackjack game! </p>
-                            <p className="card-text mt-4">- User has a wallet with $200. How much can you win?</p>
-                            <p className="card-text mt-4">- Built using JavaScript and the Client-Side MVC Architectural Approach.</p>
-                            <a href="https://jackheimburge.github.io/blackjack/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
-                            <a href="https://github.com/jackheimburge/blackjack" target="_blank" className="btn btn-primary projects-btn">Github</a>
+                            <p className="card-text mt-4">- Leveraged the power of the MERN (MongoDB, Express, React, Node.js) stack to create a dynamic marketplace. </p>
+                            <p className="card-text mt-4">- Empowered users to effortlessly manage listings by offering features for creating, updating and removing items.</p>
+                            <p className="card-text mt-4">- Crafted an engaging shopping experience with a modern user interface layout.</p>
+                            <a href="https://card-hub-fc0733ce387e.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://jackheimburge.github.io/card-hub/" target="_blank" className="btn btn-primary projects-btn">Git Hub</a>
                         </div>
                     </div>
                 </div>
                 <div className="col-lg-6">
                     <div className="card">
                         <div className="card-body">
-                            <h5 className="card-title ">Card Hub</h5>
+                            <h5 className="card-title ">Blackjack Web App</h5>
                             <div id="card-hub-carousel" class="carousel slide">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
@@ -133,11 +139,11 @@ export default function Projects() {
                                     <span class="visually-hidden">Next</span>
                                 </button>
                             </div>
-                            <p className="card-text mt-4">- Seemlisly view your favorite surf spots and locations.</p>
-                            <p className="card-text mt-4">- Track your surf sessions, including photo upload and conditions.</p>
-                            <p className="card-text mt-4">- Built using Node.js and Express.js</p>
-                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
-                            <a href="https://github.com/jackheimburge/tide-seeker" target="_blank" className="btn btn-primary projects-btn">Github</a>
+                            <p className="card-text mt-4">- Web browser Blackjack game built using Javascript, CSS, HTML and DOM manipulation.</p>
+                            <p className="card-text mt-4">- A fun user vs computer game with all the winning logic as the casino!</p>
+                            <p className="card-text mt-4">- Modern and sleak user interface!</p>
+                            <a href="https://jackheimburge.github.io/blackjack/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://github.com/jackheimburge/blackjack" target="_blank" className="btn btn-primary projects-btn">Github</a>
                         </div>
                     </div>
                 </div>
