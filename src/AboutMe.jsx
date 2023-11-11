@@ -26,9 +26,6 @@ export default function AboutMe() {
                     <div className="skills">
                         <div className="row mb-5">
                             <div className="col-3">
-                                <img className="tech-icon" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="" />
-                            </div>
-                            <div className="col-3">
                                 <img className="tech-icon" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="" />
                             </div>
                             <div className="col-3">
@@ -36,6 +33,9 @@ export default function AboutMe() {
                             </div>
                             <div className="col-3">
                                 <img className="tech-icon" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="" />
+                            </div>
+                            <div className="col-3">
+                                <img className="tech-icon" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="" />
                             </div>
                         </div>
                         <div className="row mb-5">

@@ -139,7 +139,7 @@ export default function Projects() {
                                     <span class="visually-hidden">Next</span>
                                 </button>
                             </div>
-                            <p className="card-text mt-4">- Web browser Blackjack game built using Javascript, CSS, HTML and DOM manipulation.</p>
+                            <p className="card-text mt-4">- Built using Javascript, CSS, and HTML.</p>
                             <p className="card-text mt-4">- A fun user vs computer game played just like at the casino!</p>
                             <p className="card-text mt-4">- Features a modern and sleak user interface!</p>
                             <a href="https://jackheimburge.github.io/blackjack/" target="_blank" className="btn btn-primary projects-btn">View Site</a>

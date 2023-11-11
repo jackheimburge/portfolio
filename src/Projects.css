@@ -15,17 +15,20 @@
     margin-bottom: 18vh;
 }
 
+.Projects .carousel-inner {
+    border-radius: 20px;
+}
+
 .Projects .skills-row {
     margin: -2rem 5rem 5rem 5rem;
 }
 
 .Projects .card {
-    height: 88vh;
+    height: 85vh;
     margin: 1rem;
 }
 
 .Projects .projects-btn {
-    margin: 0.5rem;
     width: 20rem;
     background-color: #0F0F0F;
     color: rgba(0, 129, 112, 0.95);
@@ -55,7 +58,7 @@
     }
 
     .Projects .card {
-        height: 65vh;
+        height: 75vh;
         margin: 1rem;
     }
 }
@@ -74,13 +77,14 @@
     }
 
     .Projects .card {
-        height: 58vh;
+        height: 62vh;
         width: 80vw;
     }
 
     .Projects .projects-btn {
         width: 12rem;
         font-size: 1.4rem;
+        margin-top: 1.5rem;
     }
 
     .Projects .card-text {
@@ -103,13 +107,14 @@
     }
 
     .Projects .card {
-        height: 62vh;
+        height: 65vh;
         width: 80vw;
     }
 
     .Projects .projects-btn {
         width: 12rem;
         font-size: 1.4rem;
+        margin-top: 1.5rem;
     }
 
     .Projects .card-text {
