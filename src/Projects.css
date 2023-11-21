@@ -122,6 +122,35 @@
     }
 }
 
+@media(max-width: 395px) {
+    .Projects {
+        height: 350vh;
+    }
+
+    .col-lg-6 {
+        margin-bottom: 5rem;
+    }
+
+    .Projects h2 {
+        font-size: 3rem;
+    }
+
+    .Projects .card {
+        height: 72vh;
+        width: 80vw;
+    }
+
+    .Projects .projects-btn {
+        width: 11rem;
+        font-size: 1.4rem;
+        margin-top: 1.5rem;
+    }
+
+    .Projects .card-text {
+        font-size: 0.8rem;
+    }
+}
+
 
 @media(min-width: 1440px) {
     .Projects .projects-btn {
