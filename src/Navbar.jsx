@@ -20,9 +20,10 @@ export default function Navbar() {
                         </li>
                     </ul>
                     <div className="ml-auto"> {/* Create a div for the right-aligned links */}
-                        <a href="https://www.linkedin.com/in/jackheimburge/" target="_blank" className="nav-item nav-end"><img className="nav-icon" src="https://i.imgur.com/Pz2yEkx.png" alt="" /></a>
-                        <a href="https://github.com/jackheimburge" target="_blank" className="nav-item nav-end"><img className="nav-icon" src="https://i.imgur.com/QMlrlWn.png" alt="" /></a>
-                        <a href="mailto:jheimburge@gmail.com" target="_blank" className="nav-item nav-end"><img className="nav-icon" src="https://i.imgur.com/3lGQ8Cu.png" alt="" /></a>
+                        <a href="https://www.linkedin.com/in/jackheimburge/" rel="noreferrer" target="_blank" className="nav-item nav-end"><img className="nav-icon" src="https://i.imgur.com/Pz2yEkx.png" alt="" /></a>
+                        <a href="https://github.com/jackheimburge" rel="noreferrer" target="_blank" className="nav-item nav-end"><img className="nav-icon" src="https://i.imgur.com/QMlrlWn.png" alt="" /></a>
+                        <a href="mailto:jheimburge@gmail.com" rel="noreferrer" target="_blank" className="nav-item nav-end"><img className="nav-icon" src="https://i.imgur.com/3lGQ8Cu.png" alt="" /></a>
+                        <a href="https://docs.google.com/document/d/1tQOs_ikv7nTaIn_FJklljD43iwXplNNQT9OoEBtFduI/edit" rel="noreferrer" target="_blank" className="nav-item nav-end"><img className="nav-icon" src="https://i.imgur.com/1P59RSs.png" alt="" /></a>
                     </div>
                 </div>
             </div>
