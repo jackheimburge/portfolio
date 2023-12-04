@@ -27,9 +27,9 @@ header h2 {
 }
 
 .AboutMe .statement {
-    line-height: 3.5rem;
+    line-height: 3.2rem;
     text-align: left;
-    font-size: 1.3rem;
+    font-size: 1rem;
     margin-left: 3rem;
     font-style: italic;
 }
