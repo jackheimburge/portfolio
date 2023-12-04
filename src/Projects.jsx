@@ -121,6 +121,9 @@ export default function Projects() {
                             <div id="card-hub-carousel" class="carousel slide">
                                 <div class="carousel-inner">
                                     <div class="carousel-item">
+                                        <img src="https://i.imgur.com/T4mX8TF.png" class="d-block w-100" alt="..." />
+                                    </div>
+                                    <div class="carousel-item">
                                         <img src="https://i.imgur.com/9e6It3q.png" class="d-block w-100" alt="..." />
                                     </div>
                                     <div class="carousel-item active">
@@ -128,9 +131,6 @@ export default function Projects() {
                                     </div>
                                     <div class="carousel-item">
                                         <img src="https://i.imgur.com/MCMYOOB.png" class="d-block w-100" alt="..." />
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="https://i.imgur.com/T4mX8TF.png" class="d-block w-100" alt="..." />
                                     </div>
                                 </div>
                                 <button class="carousel-control-prev" type="button" data-bs-target="#card-hub-carousel" data-bs-slide="prev">
