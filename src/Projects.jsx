@@ -117,17 +117,20 @@ export default function Projects() {
                 <div className="col-lg-6">
                     <div className="card">
                         <div className="card-body">
-                            <h5 className="card-title ">Blackjack Web App</h5>
+                            <h5 className="card-title ">App Trak</h5>
                             <div id="card-hub-carousel" class="carousel slide">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <img src="https://i.imgur.com/qqhylkc.png" class="d-block w-100" alt="..." />
+                                        <img src="https://i.imgur.com/TrjwGJX.png" class="d-block w-100" alt="..." />
                                     </div>
                                     <div class="carousel-item">
-                                        <img src="https://i.imgur.com/XP10G6J.png" class="d-block w-100" alt="..." />
+                                        <img src="https://i.imgur.com/MCMYOOB.png" class="d-block w-100" alt="..." />
                                     </div>
                                     <div class="carousel-item">
-                                        <img src="https://i.imgur.com/ykh2LhN.png" class="d-block w-100" alt="..." />
+                                        <img src="https://i.imgur.com/9e6It3q.png" class="d-block w-100" alt="..." />
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="https://i.imgur.com/T4mX8TF.png" class="d-block w-100" alt="..." />
                                     </div>
                                 </div>
                                 <button class="carousel-control-prev" type="button" data-bs-target="#card-hub-carousel" data-bs-slide="prev">
@@ -139,11 +142,11 @@ export default function Projects() {
                                     <span class="visually-hidden">Next</span>
                                 </button>
                             </div>
-                            <p className="card-text mt-4">- Built using Javascript, CSS, and HTML.</p>
-                            <p className="card-text mt-4">- A fun user vs computer game played just like at the casino!</p>
-                            <p className="card-text mt-4">- Features a modern and sleak user interface!</p>
-                            <a href="https://jackheimburge.github.io/blackjack/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
-                            <a href="https://github.com/jackheimburge/blackjack" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
+                            <p className="card-text mt-4">- All your job applications in one central hub.</p>
+                            <p className="card-text mt-4">- Gain valuable insights into your job search progress</p>
+                            <p className="card-text mt-4">- A user-friendly interface ensuring a seamless and enjoyable experience.</p>
+                            <a href="https://jackheimburge.github.io/job-trak/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://app-trakk-4b69c26873f1.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
                         </div>
                     </div>
                 </div>
