@@ -38,8 +38,8 @@ export default function Projects() {
                             <p className="card-text mt-4">- Seemlisly view your favorite surf spots and locations.</p>
                             <p className="card-text mt-4">- Track your surf sessions, including photo upload and conditions.</p>
                             <p className="card-text mt-4">- Built using Node.js and Express.js</p>
-                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
-                            <a href="https://github.com/jackheimburge/tide-seeker" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
+                            <a href="https://tide-seeker-1959079ff47b.herokuapp.com/" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://github.com/jackheimburge/tide-seeker" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
                         </div>
                     </div>
                 </div>
@@ -71,8 +71,8 @@ export default function Projects() {
                             <p className="card-text mt-4">- Dealership solution to help track sales and inventory</p>
                             <p className="card-text mt-4">- Uses chart insights to visualize sales data.  </p>
                             <p className="card-text mt-4">- Built using Python, Django and Chart.js</p>
-                            <a href="https://dm-solutions-6a34df6ef1ad.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
-                            <a href="https://github.com/jackheimburge/dm-solutions" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
+                            <a href="https://dm-solutions-6a34df6ef1ad.herokuapp.com/" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://github.com/jackheimburge/dm-solutions" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
                         </div>
                     </div>
                 </div>
@@ -109,8 +109,8 @@ export default function Projects() {
                             <p className="card-text mt-4">- Dynamic marketplace for buying and selling trading cards.</p>
                             <p className="card-text mt-4">- Crafted an engaging shopping experience with a modern user interface layout.</p>
                             <p className="card-text mt-4">- Leveraged the power of the MERN stack. </p>
-                            <a href="https://card-hub-fc0733ce387e.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
-                            <a href="https://github.com/jackheimburge/card-hub" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
+                            <a href="https://card-hub-fc0733ce387e.herokuapp.com/" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://github.com/jackheimburge/card-hub" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
                         </div>
                     </div>
                 </div>
@@ -145,8 +145,8 @@ export default function Projects() {
                             <p className="card-text mt-4">- All your job applications in one central hub.</p>
                             <p className="card-text mt-4">- Gain valuable insights into your job search progress</p>
                             <p className="card-text mt-4">- A user-friendly interface ensuring a seamless and enjoyable experience.</p>
-                            <a href="https://jackheimburge.github.io/job-trak/" target="_blank" className="btn btn-primary projects-btn">View Site</a>
-                            <a href="https://app-trakk-4b69c26873f1.herokuapp.com/" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
+                            <a href="https://app-trakk-4b69c26873f1.herokuapp.com/" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://github.com/jackheimburge/job-trak" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
                         </div>
                     </div>
                 </div>
