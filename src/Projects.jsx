@@ -109,7 +109,7 @@ export default function Projects() {
                             <p className="card-text mt-4">- Dynamic marketplace for buying and selling trading cards.</p>
                             <p className="card-text mt-4">- Crafted an engaging shopping experience with a modern user interface layout.</p>
                             <p className="card-text mt-4">- Leveraged the power of the MERN stack. </p>
-                            <a href="https://card-hub-fc0733ce387e.herokuapp.com/" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://the-card-hub-9536bba25230.herokuapp.com/" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">View Site</a>
                             <a href="https://github.com/jackheimburge/card-hub" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
                         </div>
                     </div>
@@ -145,7 +145,7 @@ export default function Projects() {
                             <p className="card-text mt-4">- All your job applications in one central hub.</p>
                             <p className="card-text mt-4">- Gain valuable insights into your job search progress</p>
                             <p className="card-text mt-4">- A user-friendly interface ensuring a seamless and enjoyable experience.</p>
-                            <a href="https://app-trakk-4b69c26873f1.herokuapp.com/" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">View Site</a>
+                            <a href="https://app-trak-2-2c62e0337a96.herokuapp.com/" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">View Site</a>
                             <a href="https://github.com/jackheimburge/job-trak" rel="noreferrer" target="_blank" className="btn btn-primary projects-btn">GitHub</a>
                         </div>
                     </div>
